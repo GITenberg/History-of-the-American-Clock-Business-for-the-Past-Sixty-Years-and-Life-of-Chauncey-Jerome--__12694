@@ -1,0 +1,26 @@
+_repo: History-of-the-American-Clock-Business-for-the-Past-Sixty-Years-and-Life-of-Chauncey-Jerome--__12694
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Jerome, Chauncey
+    birthdate: 1793
+    deathdate: 1868
+    gutenberg_agent_id: '4509'
+    url: http://www.gutenberg.org/2009/agents/4509
+    wikipedia: http://en.wikipedia.org/wiki/Chauncey_Jerome
+description: ''
+gutenberg_issued: '2004-06-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '12694'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Clock and watch making -- United States'
+- !lcc 'TS'
+- GITenberg
+title: "History of the American Clock Business for the Past Sixty Years, and Life\
+  \ of Chauncey Jerome\r\nBarnum's Connection with the Yankee Clock Business"
+url: http://www.gutenberg.org/ebooks/12694
